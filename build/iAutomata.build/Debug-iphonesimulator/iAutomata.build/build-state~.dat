@@ -1,0 +1,1730 @@
+TiAutomata
+v7
+r0
+t317919961.225005
+cCheck dependencies
+cProcessInfoPlistFile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Info.plist Resources/Info.plist
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/fps_images.png Resources/fps_images.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Icon@2x.png Resources/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-tiny.png Resources/Icon-tiny.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-Other.png Resources/Icon-Other.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/iTunesArtwork Resources/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/iAutomata.app/button.png Resources/button.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/button_p.png Resources/button_p.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/btnMenu.png Resources/btnMenu.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite.png Resources/acceptstate_sprite.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/state_sprite.png Resources/state_sprite.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite_new.png Resources/acceptstate_sprite_new.png
+cCpResource build/Debug-iphonesimulator/iAutomata.app/state_sprite_new.png Resources/state_sprite_new.png
+cProcessPCH /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch.gch iAutomata_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/main.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataAppDelegate.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMenuScene.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/RootViewController.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataDiagramScene.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCButton.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCUIViewWrapper.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMachine.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataState.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataTransition.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCStateSprite.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata normal i386
+cGenerateDSYMFile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app.dSYM /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata
+cTouch /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC121DB0000000000002650
+t1287725531
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC1226400000000000246A0
+t1287725668
+s149152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC12308000000000000094F
+t1287725832
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC123080000000000000A61
+t1287725832
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC123080000000000009369
+t1287725832
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC123080000000000003C4A
+t1287725832
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/inttypes.h
+c000000004CB3E48600000000000027D1
+t1286857862
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/objc.h
+c000000004CB935700000000000000A2F
+t1287206256
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stddef.h
+c000000004CB3E4860000000000001404
+t1286857862
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.h
+c000000004D3C547D0000000000000630
+t1295799421
+s1584
+i"cocos2d.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m
+c000000004D3C56C000000000000015CC
+t1295800000
+s5580
+i"CCButton.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.h
+c000000004D0D3E710000000000000100
+t1292713585
+s256
+i"cocos2d.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m
+c000000004D0D3EF50000000000000A09
+t1292713717
+s2569
+i"CCUIViewWrapper.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.h
+c000000004D3C614A000000000000021F
+t1295802698
+s543
+i"cocos2d.h"
+i"iAutomataState.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m
+c000000004D42D8E70000000000000947
+t1296226535
+s2375
+i"CCStateSprite.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/GameConfig.h
+c000000004D20AEA90000000000000235
+t1293987497
+s565
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.h
+c000000004D20ACBA00000000000000E5
+t1293987002
+s229
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m
+c000000004D20B1880000000000001139
+t1293988232
+s4409
+i"cocos2d.h"
+i"RootViewController.h"
+i"ViewConfig.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/ViewConfig.h
+c000000004D20B0910000000000000211
+t1293987985
+s529
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.h
+c000000004D3042B300000000000001BF
+t1295008435
+s447
+i<UIKit/UIKit.h>
+i"iAutomataDiagramScene.h"
+i"iAutomataMenuScene.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m
+c000000004D30435900000000000011D5
+t1295008601
+s4565
+i"cocos2d.h"
+i"iAutomataAppDelegate.h"
+i"ViewConfig.h"
+i"iAutomataMenuScene.h"
+i"iAutomataDiagramScene.h"
+i"RootViewController.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.h
+c000000004D3BA4E60000000000000382
+t1295754470
+s898
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"CCUIViewWrapper.h"
+i"CCButton.h"
+i"iAutomataMachine.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m
+c000000004D3C63820000000000003145
+t1295803266
+s12613
+i"iAutomataDiagramScene.h"
+i"iAutomataMenuScene.h"
+i"iAutomataMachine.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.h
+c000000004D3B926B00000000000007BD
+t1295749739
+s1981
+i<Foundation/Foundation.h>
+i"iAutomataState.h"
+i"iAutomataTransition.h"
+i"cocos2d.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m
+c000000004D3C63460000000000002518
+t1295803206
+s9496
+i"iAutomataMachine.h"
+i"iAutomataDiagramScene.h"
+i"CCStateSprite.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.h
+c000000004D3390DA00000000000001DF
+t1295225050
+s479
+i"cocos2d.h"
+i"iAutomataDiagramScene.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m
+c000000004D3B9EF300000000000009EA
+t1295752947
+s2538
+i"iAutomataMenuScene.h"
+i"iAutomataDiagramScene.h"
+i"CCButton.h"
+i"iAutomataAppDelegate.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.h
+c000000004D25D7510000000000000263
+t1294325585
+s611
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m
+c000000004D25DA340000000000000364
+t1294326324
+s868
+i"iAutomataState.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.h
+c000000004D3A403700000000000002CE
+t1295663159
+s718
+i<Foundation/Foundation.h>
+i"iAutomataState.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m
+c000000004D3A4020000000000000043E
+t1295663136
+s1086
+i"iAutomataTransition.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Button.png
+c000000004D20ACBA0000000000001F2B
+t1293987002
+s7979
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/CCButton.h
+c000000004D3C547D0000000000000630
+t1295799421
+s1584
+i"cocos2d.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/CCButton.m
+c000000004D232FD20000000000000B31
+t1294151634
+s2865
+i"CCButton.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/CCUIViewWrapper.h
+c000000004D0D3E710000000000000100
+t1292713585
+s256
+i"cocos2d.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/CCUIViewWrapper.m
+c000000004D0D3EF50000000000000A09
+t1292713717
+s2569
+i"CCUIViewWrapper.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Default.png
+c000000004D0807630000000000006932
+t1292371811
+s26930
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-72.png
+c000000004D20ACBA0000000000002C96
+t1293987002
+s11414
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Other.png
+c000000004D20ACBA0000000000001F2B
+t1293987002
+s7979
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small-50.png
+c000000004D20ACBA0000000000001F2B
+t1293987002
+s7979
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small.png
+c000000004D20ACBA000000000000135C
+t1293987002
+s4956
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small@2x.png
+c000000004D20ACBA00000000000024F9
+t1293987002
+s9465
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-tiny.png
+c000000004D20ACBA000000000000135C
+t1293987002
+s4956
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon.png
+c000000004D18B3F200000000000008CF
+t1293464562
+s2255
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon@2x.png
+c000000004D20ACBA0000000000005375
+t1293987002
+s21365
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/acceptstate_sprite.png
+c000000004D3C511100000000000005C2
+t1295798545
+s1474
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/acceptstate_sprite_new.png
+c000000004D42DB10000000000000FC12
+t1296227088
+s64530
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/btnMenu.png
+c000000004D3250EE000000000000073C
+t1295143150
+s1852
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button.png
+c000000004D233B87000000000000053C
+t1294154631
+s1340
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button1.png
+c000000004D233B87000000000000053C
+t1294154631
+s1340
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button_p.png
+c000000004D2344D70000000000000505
+t1294157015
+s1285
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/fps_images.png
+c000000004D20ACBB000000000000183B
+t1293987003
+s6203
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/iTunesArtwork
+c000000004D20ACBB000000000000F21E
+t1293987003
+s61982
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/state_sprite.png
+c000000004D3C50D60000000000000501
+t1295798486
+s1281
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/state_sprite_new.png
+c000000004D42DB37000000000000B8E1
+t1296227127
+s47329
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app
+t1296227161
+s714
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app.dSYM
+t1296227161
+s102
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Button.png
+t1294153151
+s7979
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Default.png
+t1296227158
+s26930
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon-72.png
+t1296227158
+s11414
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon-Other.png
+t1296227158
+s7979
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon-Small-50.png
+t1293988796
+s7979
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon-Small.png
+t1293988796
+s4956
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon-Small@2x.png
+t1296227158
+s9465
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon-tiny.png
+t1296227158
+s4956
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon.png
+t1296227158
+s2255
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Icon@2x.png
+t1296227158
+s21365
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Info.plist
+t1296227157
+s862
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/PkgInfo
+t1296227157
+s8
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite.png
+t1296227158
+s1474
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite_new.png
+t1296227158
+s64530
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/btnMenu.png
+t1296227158
+s1852
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/button.png
+t1296227158
+s1340
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/button1.png
+t2
+s0
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/button_p.png
+t1296227158
+s1285
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/fps_images.png
+t1296227158
+s6203
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata
+t1296227160
+s1724160
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iTunesArtwork
+t1296227158
+s61982
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/state_sprite.png
+t1296227158
+s1281
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/state_sprite_new.png
+t1296227158
+s47329
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D42DB5500000000003C2200
+t1296227157
+s3940864
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCButton.o
+t1296227159
+s35336
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCStateSprite.o
+t1296227160
+s23680
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCUIViewWrapper.o
+t1296227159
+s54712
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/RootViewController.o
+t1296227159
+s35892
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomata.LinkFileList
+c000000004D42DB5500000000000006F7
+t1296227157
+s1783
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataAppDelegate.o
+t1296227159
+s59764
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataDiagramScene.o
+t1296227159
+s85992
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMachine.o
+t1296227160
+s87972
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMenuScene.o
+t1296227159
+s17556
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataState.o
+t1296227160
+s9976
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataTransition.o
+t1296227160
+s9928
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/main.o
+t1296227159
+s3260
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/iAutomata_Prefix.pch
+c000000004D20ACBB00000000000000B5
+t1293987003
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCAction.h
+c000000004D20ACBB000000000000167A
+t1293987003
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionCamera.h
+c000000004D20ACBB00000000000009BD
+t1293987003
+s2493
+i"CCActionInterval.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionEase.h
+c000000004D20ACBB0000000000001671
+t1293987003
+s5745
+i"CCActionInterval.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionGrid.h
+c000000004D20ACBB000000000000148F
+t1293987003
+s5263
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionGrid3D.h
+c000000004D20ACBB0000000000001A8A
+t1293987003
+s6794
+i"CCActionGrid.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionInstant.h
+c000000004D20ACBB00000000000011DC
+t1293987003
+s4572
+i"CCAction.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionInterval.h
+c000000004D20ACBB0000000000003268
+t1293987003
+s12904
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionManager.h
+c000000004D20ACBB0000000000001072
+t1293987003
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D20ACBB0000000000000644
+t1293987003
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionProgressTimer.h
+c000000004D20ACBB000000000000088D
+t1293987003
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionTiledGrid.h
+c000000004D20ACBB0000000000001A15
+t1293987003
+s6677
+i"CCActionGrid.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCActionTween.h
+c000000004D20ACBB0000000000000932
+t1293987003
+s2354
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCAnimation.h
+c000000004D20ACBB000000000000126D
+t1293987003
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCAnimationCache.h
+c000000004D20ACBB00000000000008DE
+t1293987003
+s2270
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCAtlasNode.h
+c000000004D20ACBB0000000000000C07
+t1293987003
+s3079
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCBlockSupport.h
+c000000004D20ACBB000000000000066F
+t1293987003
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCCamera.h
+c000000004D20ACBB0000000000000B48
+t1293987003
+s2888
+i"CCNode.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCCompatibility.h
+c000000004D20ACBB0000000000003891
+t1293987003
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCConfiguration.h
+c000000004D20ACBB0000000000000D36
+t1293987003
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCDirector.h
+c000000004D30457B0000000000002601
+t1295009147
+s9729
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D20ACBB0000000000000C32
+t1293987003
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCGrabber.h
+c000000004D20ACBB00000000000005E4
+t1293987003
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCGrid.h
+c000000004D20ACBB0000000000000E5A
+t1293987003
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCLabelAtlas.h
+c000000004D20ACBB0000000000000B25
+t1293987003
+s2853
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCLabelBMFont.h
+c000000004D20ACBB0000000000001641
+t1293987003
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCLabelTTF.h
+c000000004D20ACBB0000000000000A87
+t1293987003
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCLayer.h
+c000000004D20ACBB00000000000018C6
+t1293987003
+s6342
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCMenu.h
+c000000004D20ACBB0000000000000B29
+t1293987003
+s2857
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCMenuItem.h
+c000000004D20ACBB00000000000033A8
+t1293987003
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCMotionStreak.h
+c000000004D20ACBB0000000000000B2A
+t1293987003
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCNode.h
+c000000004D20ACBB0000000000004449
+t1293987003
+s17481
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCParallaxNode.h
+c000000004D20ACBB000000000000075D
+t1293987003
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCParticleExamples.h
+c000000004D20ACBB0000000000000AD0
+t1293987003
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCParticleSystem.h
+c000000004D20ACBB00000000000037B8
+t1293987003
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D20ACBB0000000000000778
+t1293987003
+s1912
+i"CCParticleSystem.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D20ACBB00000000000009D3
+t1293987003
+s2515
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCProgressTimer.h
+c000000004D20ACBB0000000000000B48
+t1293987003
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCProtocols.h
+c000000004D20ACBB0000000000000F9A
+t1293987003
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCRenderTexture.h
+c000000004D20ACBB0000000000000F2A
+t1293987003
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCRibbon.h
+c000000004D20ACBB0000000000000FCD
+t1293987003
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCScene.h
+c000000004D20ACBB0000000000000677
+t1293987003
+s1655
+i"CCNode.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCScheduler.h
+c000000004D20ACBB00000000000019D7
+t1293987003
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCSprite.h
+c000000004D20ACBB00000000000033E8
+t1293987003
+s13288
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D20ACBB00000000000018F8
+t1293987003
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCSpriteFrame.h
+c000000004D20ACBB0000000000000D5A
+t1293987003
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D20ACBB00000000000012B5
+t1293987003
+s4789
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCSpriteSheet.h
+c000000004D20ACBB00000000000009FE
+t1293987003
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTMXLayer.h
+c000000004D20ACBB000000000000182A
+t1293987003
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D20ACBB00000000000008D5
+t1293987003
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTMXTiledMap.h
+c000000004D20ACBB00000000000014D4
+t1293987003
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTMXXMLParser.h
+c000000004D20ACBB00000000000016B9
+t1293987003
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTexture2D.h
+c000000004D20ACBB0000000000002C26
+t1293987003
+s11302
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTextureAtlas.h
+c000000004D20ACBB000000000000145B
+t1293987003
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTextureCache.h
+c000000004D20ACBB00000000000014C2
+t1293987003
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTexturePVR.h
+c000000004D20ACBB0000000000000DA0
+t1293987003
+s3488
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTileMapAtlas.h
+c000000004D20ACBB0000000000000B86
+t1293987003
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTransition.h
+c000000004D20ACBB0000000000002134
+t1293987003
+s8500
+i"CCScene.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D20ACBB0000000000000917
+t1293987003
+s2327
+i"CCTransition.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/CCTransitionRadial.h
+c000000004D20ACBB0000000000000630
+t1293987003
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/CCGL.h
+c000000004D20ACBB0000000000000BF8
+t1293987003
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/CCNS.h
+c000000004D20ACBB0000000000000965
+t1293987003
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D20ACBB00000000000008D9
+t1293987003
+s2265
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D20ACBB0000000000001A06
+t1293987003
+s6662
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D20ACBB0000000000000ACF
+t1293987003
+s2767
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D20ACBC0000000000002B53
+t1293987004
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D20ACBC0000000000000BC3
+t1293987004
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D20ACBC00000000000010CA
+t1293987004
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D20ACBC0000000000000D99
+t1293987004
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D20ACBC0000000000001B69
+t1293987004
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D20ACBC000000000000083A
+t1293987004
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D20ACBC000000000000030D
+t1293987004
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/CCArray.h
+c000000004D20ACBC0000000000000BD7
+t1293987004
+s3031
+i"ccCArray.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/CCFileUtils.h
+c000000004D20ACBC0000000000000748
+t1293987004
+s1864
+i<Foundation/Foundation.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/CCProfiling.h
+c000000004D20ACBC00000000000006E9
+t1293987004
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/CGPointExtension.h
+c000000004D20ACBC0000000000001EAB
+t1293987004
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D20ACBC00000000000011A7
+t1293987004
+s4519
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/TGAlib.h
+c000000004D20ACBC0000000000000444
+t1293987004
+s1092
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/ccCArray.h
+c000000004D20ACBC00000000000030F3
+t1293987004
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/ccUtils.h
+c000000004D20ACBC0000000000000204
+t1293987004
+s516
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/uthash.h
+c000000004D20ACBC000000000000FB13
+t1293987004
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/Support/utlist.h
+c000000004D20ACBC0000000000009091
+t1293987004
+s37009
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/ccConfig.h
+c000000004D20ACBC00000000000025C7
+t1293987004
+s9671
+i<Availability.h>
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/ccMacros.h
+c000000004D20ACBC0000000000001CB9
+t1293987004
+s7353
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/ccTypes.h
+c000000004D20ACBC00000000000016C0
+t1293987004
+s5824
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/libs/cocos2d/cocos2d.h
+c000000004D20ACBC00000000000010FF
+t1293987004
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m
+c000000004D20ACBC000000000000015F
+t1293987004
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch.gch
+t1296227159
+s11971792
+
+NResources/Info.plist
+c000000004D24DCD50000000000000510
+t1294261461
+s1296
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317919957#317919957#0(0"0(0#1#0"8607534208#0"0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCButton.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.532844
+e317919959.817649
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCButton.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@103"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m317919959#317919959#0(0"0(0#0#95"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m8610728832#2402"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCButton.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCButton.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCButton.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/CCButton.m normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCStateSprite.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919960.150127
+e317919960.338973
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCStateSprite.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@95"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m317919960#317919960#0(0"0(0#0#87"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m8610786720#2399"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/CCStateSprite.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCStateSprite.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCUIViewWrapper.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.695730
+e317919959.969170
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCUIViewWrapper.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@110"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m317919959#317919959#0(0"0(0#0#102"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m8610274976#2416"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/../Resources/CCUIViewWrapper.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCUIViewWrapper.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/CCUIViewWrapper.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/CCUIViewWrapper.m normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/RootViewController.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.325099
+e317919959.532594
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/RootViewController.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@100"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m317919959#317919959#0(0"0(0#0#92"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m8611266816#2409"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/RootViewController.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataAppDelegate.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.080360
+e317919959.335830
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataAppDelegate.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@102"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m317919959#317919959#0(0"0(0#0#94"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m8613075680#2413"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataAppDelegate.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataAppDelegate.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataDiagramScene.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.335946
+e317919959.695613
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataDiagramScene.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@103"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m317919959#317919959#0(0"0(0#0#95"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m8610987456#2415"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataDiagramScene.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataDiagramScene.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMachine.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.817772
+e317919960.219148
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMachine.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@98"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m317919959#317919960#0(0"0(0#0#90"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m8613856896#2405"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMachine.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMachine.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMenuScene.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.145992
+e317919959.324977
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMenuScene.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@100"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m317919959#317919959#0(0"0(0#0#92"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m8611617824#2409"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataMenuScene.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataMenuScene.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataState.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.969290
+e317919960.054906
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataState.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@96"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m317919959#317919960#0(0"0(0#0#88"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m8611699936#2401"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataState.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataState.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataTransition.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919960.055036
+e317919960.150002
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataTransition.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@101"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m317919960#317919960#0(0"0(0#0#93"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m8611314784#2411"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Classes/iAutomataTransition.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomataTransition.o0#
+
+CCompileC build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/main.o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919959.079198
+e317919959.145873
+r1
+xCompileC
+xbuild/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/main.o
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m317919959#317919959#0(0"0(0#0#70"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m8613699424#2373"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/main.m -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Button.png Resources/Button.png
+s315845951.658866
+e315845951.693393
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Button.png
+xResources/Button.png
+lSLF07#2@25"Copy Resources/Button.png315845951#315845951#0(0"0(0#0#84"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Button.png8625394336#555"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Button.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Default.png Resources/Default.png
+s317919957.947659
+e317919958.053532
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png317919957#317919958#0(0"0(0#0#85"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Default.png8610227072#556"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Default.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-72.png Resources/Icon-72.png
+s317919957.961028
+e317919958.048637
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@26"Copy Resources/Icon-72.png317919957#317919958#0(0"0(0#0#85"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-72.png8609791360#556"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-72.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-Other.png Resources/Icon-Other.png
+s317919957.958817
+e317919958.062158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon-Other.png
+xResources/Icon-Other.png
+lSLF07#2@29"Copy Resources/Icon-Other.png317919957#317919958#0(0"0(0#0#88"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Other.png8609819616#559"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Other.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-Small-50.png Resources/Icon-Small-50.png
+s315681596.084805
+e315681596.179295
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon-Small-50.png
+xResources/Icon-Small-50.png
+lSLF07#2@32"Copy Resources/Icon-Small-50.png315681596#315681596#0(0"0(0#0#91"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small-50.png8634176768#562"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small-50.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-Small.png Resources/Icon-Small.png
+s315681596.082890
+e315681596.178425
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon-Small.png
+xResources/Icon-Small.png
+lSLF07#2@29"Copy Resources/Icon-Small.png315681596#315681596#0(0"0(0#0#88"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small.png8634200608#559"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+s317919957.954907
+e317919958.059969
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon-Small@2x.png
+xResources/Icon-Small@2x.png
+lSLF07#2@32"Copy Resources/Icon-Small@2x.png317919957#317919958#0(0"0(0#0#91"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small@2x.png8609952832#562"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-Small@2x.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon-tiny.png Resources/Icon-tiny.png
+s317919957.956815
+e317919958.043302
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon-tiny.png
+xResources/Icon-tiny.png
+lSLF07#2@28"Copy Resources/Icon-tiny.png317919957#317919958#0(0"0(0#0#87"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-tiny.png8609919680#558"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon-tiny.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon.png Resources/Icon.png
+s317919957.951314
+e317919958.038075
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png317919957#317919958#0(0"0(0#0#82"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon.png8610085056#553"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/Icon@2x.png Resources/Icon@2x.png
+s317919957.953122
+e317919958.084825
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@26"Copy Resources/Icon@2x.png317919957#317919958#0(0"0(0#0#85"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon@2x.png8610001984#556"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Icon@2x.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite.png Resources/acceptstate_sprite.png
+s317919958.043400
+e317919958.099875
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite.png
+xResources/acceptstate_sprite.png
+lSLF07#2@37"Copy Resources/acceptstate_sprite.png317919958#317919958#0(0"0(0#0#96"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/acceptstate_sprite.png8609591520#567"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/acceptstate_sprite.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite_new.png Resources/acceptstate_sprite_new.png
+s317919958.048723
+e317919958.107918
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/acceptstate_sprite_new.png
+xResources/acceptstate_sprite_new.png
+lSLF07#2@41"Copy Resources/acceptstate_sprite_new.png317919958#317919958#0(0"0(0#0#100"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/acceptstate_sprite_new.png8609525056#571"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/acceptstate_sprite_new.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/btnMenu.png Resources/btnMenu.png
+s317919958.038748
+e317919958.072922
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/btnMenu.png
+xResources/btnMenu.png
+lSLF07#2@26"Copy Resources/btnMenu.png317919958#317919958#0(0"0(0#0#85"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/btnMenu.png8609625984#556"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/btnMenu.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/button.png Resources/button.png
+s317919957.965702
+e317919958.046096
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/button.png
+xResources/button.png
+lSLF07#2@25"Copy Resources/button.png317919957#317919958#0(0"0(0#0#84"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button.png8609698496#555"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/button1.png Resources/button1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/button_p.png Resources/button_p.png
+s317919958.030299
+e317919958.084666
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/button_p.png
+xResources/button_p.png
+lSLF07#2@27"Copy Resources/button_p.png317919958#317919958#0(0"0(0#0#86"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button_p.png8609675520#557"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/button_p.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/fps_images.png Resources/fps_images.png
+s317919957.949489
+e317919958.030181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png317919957#317919958#0(0"0(0#0#88"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/fps_images.png8610140832#559"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/fps_images.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/iTunesArtwork Resources/iTunesArtwork
+s317919957.963412
+e317919958.080721
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/iTunesArtwork
+xResources/iTunesArtwork
+lSLF07#2@28"Copy Resources/iTunesArtwork317919957#317919958#0(0"0(0#0#87"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/iTunesArtwork8609741216#558"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/iTunesArtwork /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/state_sprite.png Resources/state_sprite.png
+s317919958.046186
+e317919958.098421
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/state_sprite.png
+xResources/state_sprite.png
+lSLF07#2@31"Copy Resources/state_sprite.png317919958#317919958#0(0"0(0#0#90"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/state_sprite.png8609582176#561"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/state_sprite.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CCpResource build/Debug-iphonesimulator/iAutomata.app/state_sprite_new.png Resources/state_sprite_new.png
+s317919958.053619
+e317919958.105522
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iAutomata.app/state_sprite_new.png
+xResources/state_sprite_new.png
+lSLF07#2@35"Copy Resources/state_sprite_new.png317919958#317919958#0(0"0(0#0#94"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/state_sprite_new.png8609341856#565"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/state_sprite_new.png /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
+CGenerateDSYMFile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app.dSYM /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata
+s317919960.775279
+e317919961.143623
+r1
+xGenerateDSYMFile
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app.dSYM
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/iAutomata.app.dSYM build/Debug-iphonesimulator/iAutomata.app/iAutomata317919960#317919961#0(0"0(0#0#115"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata8608988928#464"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app.dSYM0#
+
+CLd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata normal i386
+s317919960.339086
+e317919960.775164
+r1
+xLd
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata
+xnormal
+xi386
+lSLF07#2@120"Link /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata317919960#317919960#0(0"0(0#0#0"8610268320#1190"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -filelist /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/Objects-normal/i386/iAutomata.LinkFileList -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/iAutomata0#
+
+CProcessInfoPlistFile /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Info.plist Resources/Info.plist
+s317919957.924518
+e317919957.947539
+r1
+xProcessInfoPlistFile
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist317919957#317919957#0(0"0(0#0#84"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/Resources/Info.plist8610449792#560"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app/Info.plist0#
+
+CProcessPCH /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch.gch iAutomata_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s317919958.108514
+e317919959.079076
+r1
+xProcessPCH
+x/var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch.gch
+xiAutomata_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@31"Precompile iAutomata_Prefix.pch317919958#317919959#0(0"0(0#0#84"/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/iAutomata_Prefix.pch8609240640#2238"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-generated-files.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-own-target-headers.hmap -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-all-target-headers.hmap -iquote /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/iAutomata-project-headers.hmap -Wall -F/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/include -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources/i386 -I/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/iAutomata.build/Debug-iphonesimulator/iAutomata.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/iAutomata_Prefix.pch -o /var/folders/wu/wuyxWEIpH8WEGoF1zEoEBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iAutomata_Prefix-ehplzksyervquyaktbrbvwimjmox/iAutomata_Prefix.pch.gch0#
+
+CTouch /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app
+s317919961.143855
+e317919961.224823
+r1
+xTouch
+x/Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app
+lSLF07#2@111"Touch /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app317919961#317919961#0(0"0(0#0#0"8607715296#330"    cd /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macbook/Dropbox/CS310/Implementation/iAutomata/iAutomata/build/Debug-iphonesimulator/iAutomata.app0#
+
